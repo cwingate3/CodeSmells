@@ -1,6 +1,6 @@
 # Code Smells Detection for JavaScript Applications
 
-This project was worked on by myself and my co-author Charlie during the summer of 2017 for the <b>Oakland University Undergraduate Computer Research (UnCoRe)</b> in Cybersecurity. From the abstract of our paper:
+This project was worked on by myself and my co-author Cameron during the summer of 2017 for the <b>Oakland University Undergraduate Computer Research (UnCoRe)</b> in Cybersecurity. From the abstract of our paper:
 
 <i>Code  smells  are  poor  design  choices  that,  while
 not  necessarily  bugs,  can  negatively  impact  the  quality  of  an
